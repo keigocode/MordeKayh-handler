@@ -1,0 +1,34 @@
+{
+  "name": "superipm",
+  "version": "1.0.0",
+  "description": "The best bot",
+  "main": "index.js",
+  "dependencies": {
+    "canvacord": "^5.2.3",
+    "discord-canvas": "^1.4.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.4.0",
+    "firebase-admin": "^9.12.0",
+    "mojang-minecraft-api": "^1.0.2",
+    "node-fetch": "^3.0.0",
+    "node-localstorage": "^2.2.1",
+    "ytdl-core": "^4.9.1"
+  },
+  "scripts": {
+    "test": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "OK BRO"
+  },
+  "keywords": [
+    "Bot",
+    "superipm",
+    "mordekayh",
+    "mordo",
+    "mordobot"
+  ],
+  "author": "KeigoCode",
+  "license": "ISC"
+}
